@@ -6,6 +6,8 @@ LRandSVM.ipynb - Execution of Logistic Regression and Support Vector Machine cla
 
 KNN_SVR_Class&Reg.ipynb - Classification and Regression process. Initially begin with NearestCentroid approach, but due to data limitations the performance was subpar, so we were forced to switch to using (K-Nearest Neighbors)KNN for a stronger classifier. Classification was done on the class variable to predict on a test set to visualize performance. Regression was performed using Support Vector Regression, scaling the data, and one-hot encoding the class variable to build a model for the redshift parameter. 
 
+ClusteringwDensity.ipynb - Clustering algorithms using DBSCAN, HDBSCAN, OPTICS, KMeans, and GMM from the Scikit Learn Python Library
+
 ./data - holds the stellar dataset
 
 ./images - holds images
